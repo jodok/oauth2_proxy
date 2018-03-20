@@ -98,10 +98,10 @@
   version = "v1.0.0"
 
 [[projects]]
-  name = "gopkg.in/fsnotify/fsnotify.v1"
+  name = "github.com/fsnotify/fsnotify"
   packages = ["."]
-  revision = "836bfd95fecc0f1511dd66bdbf2b5b61ab8b00b6"
-  version = "v1.2.11"
+  revision = "c2828203cd70a50dcccfb2761f8b1f8ceef9a8e9"
+  version = "v1.4.7"
 
 [[projects]]
   name = "gopkg.in/square/go-jose.v2"
